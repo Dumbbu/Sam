@@ -1,0 +1,3 @@
+Asterisk -vvvvr
+sip show peers
+pri show spans
